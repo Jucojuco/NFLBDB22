@@ -128,6 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Folders
-datasets/
-
+# Datasets
+datasets/tracking2020.csv
+datasets/tracking2019.csv
+datasets/tracking2018.csv
