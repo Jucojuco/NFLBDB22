@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # Datasets
-datasets/tracking2020.csv
-datasets/tracking2019.csv
-datasets/tracking2018.csv
+datasets/
+# ./datasets/tracking2020.csv
+# ./datasets/tracking2019.csv
+# ./datasets/tracking2018.csv
