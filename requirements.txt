@@ -1,0 +1,37 @@
+## Notebooks
+notedown>=1.5.1
+jupyterthemes>=0.20.0
+scipy
+numpy
+pandas
+sklearn
+pyspark
+unidecode
+
+## Models
+# joblib>=0.14.1
+scikit-learn>=0.23
+# joblibspark>=0.2.0
+imblearn
+# --no-input shap
+
+## Visualization
+seaborn
+matplotlib
+plotly
+# wordcloud
+pandas_profiling
+# bokeh>=2.2.3
+# holoviews>=1.13.5
+
+## Security
+# cryptography>=2.7
+
+## Text
+# nltk
+# spacy
+# stanza
+# googletrans==3.1.0a0
+# googletrans==4.0.0-rc1
+# pyLDAvis
+
